@@ -1,0 +1,45 @@
+{
+  "Gps, Maps, Address Detection Issues": {
+    "aliases": [
+      "Gps, Maps, Address Detection Issues",
+      "Gps Address Detection Issues",
+      "Gps, Maps, Address Detection Issues"
+    ]
+  },
+  "App Crashes": {
+    "aliases": [
+      "App Crashes",
+      "App Crashes"
+    ]
+  },
+  "Delivery Delay": {
+    "aliases": [
+      "Delivery Delay",
+      "Instamart Delivery Slot Issues",
+      "Delivery Delay",
+      "Delivery Partner Behavior",
+      "Instamart Availability",
+      "Bolt Delivery Availability"
+    ]
+  },
+  "Food Quality Stale": {
+    "aliases": [
+      "Food Quality Stale"
+    ]
+  },
+  "Payment Failures": {
+    "aliases": [
+      "Payment Failures"
+    ]
+  },
+  "Order Cancellation": {
+    "aliases": [
+      "Order Cancellation"
+    ]
+  },
+  "Customer Support Issues": {
+    "aliases": [
+      "Customer Support Issues"
+    ]
+  }
+}
